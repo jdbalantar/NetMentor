@@ -1,0 +1,16 @@
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\bin\Debug\net5.0\TipoDatetime.exe
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\bin\Debug\net5.0\TipoDatetime.deps.json
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\bin\Debug\net5.0\TipoDatetime.runtimeconfig.json
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\bin\Debug\net5.0\TipoDatetime.runtimeconfig.dev.json
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\bin\Debug\net5.0\TipoDatetime.dll
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\bin\Debug\net5.0\TipoDatetime.pdb
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\obj\Debug\net5.0\TipoDatetime.csproj.AssemblyReference.cache
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\obj\Debug\net5.0\TipoDatetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\obj\Debug\net5.0\TipoDatetime.AssemblyInfoInputs.cache
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\obj\Debug\net5.0\TipoDatetime.AssemblyInfo.cs
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\obj\Debug\net5.0\TipoDatetime.csproj.CoreCompileInputs.cache
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\obj\Debug\net5.0\TipoDatetime.dll
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\obj\Debug\net5.0\refint\TipoDatetime.dll
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\obj\Debug\net5.0\TipoDatetime.pdb
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\obj\Debug\net5.0\TipoDatetime.genruntimeconfig.cache
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\TipoDatetime\TipoDatetime\obj\Debug\net5.0\ref\TipoDatetime.dll
