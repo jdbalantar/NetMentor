@@ -1,0 +1,16 @@
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\bin\Debug\net5.0\Generics2.exe
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\bin\Debug\net5.0\Generics2.deps.json
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\bin\Debug\net5.0\Generics2.runtimeconfig.json
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\bin\Debug\net5.0\Generics2.runtimeconfig.dev.json
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\bin\Debug\net5.0\Generics2.dll
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\bin\Debug\net5.0\Generics2.pdb
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\obj\Debug\net5.0\Generics2.csproj.AssemblyReference.cache
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\obj\Debug\net5.0\Generics2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\obj\Debug\net5.0\Generics2.AssemblyInfoInputs.cache
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\obj\Debug\net5.0\Generics2.AssemblyInfo.cs
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\obj\Debug\net5.0\Generics2.csproj.CoreCompileInputs.cache
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\obj\Debug\net5.0\Generics2.dll
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\obj\Debug\net5.0\refint\Generics2.dll
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\obj\Debug\net5.0\Generics2.pdb
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\obj\Debug\net5.0\Generics2.genruntimeconfig.cache
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\Generics2\Generics2\obj\Debug\net5.0\ref\Generics2.dll

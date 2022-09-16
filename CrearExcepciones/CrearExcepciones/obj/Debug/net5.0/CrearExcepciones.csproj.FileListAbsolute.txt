@@ -1,0 +1,16 @@
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\bin\Debug\net5.0\CrearExcepciones.exe
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\bin\Debug\net5.0\CrearExcepciones.deps.json
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\bin\Debug\net5.0\CrearExcepciones.runtimeconfig.json
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\bin\Debug\net5.0\CrearExcepciones.runtimeconfig.dev.json
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\bin\Debug\net5.0\CrearExcepciones.dll
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\bin\Debug\net5.0\CrearExcepciones.pdb
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\obj\Debug\net5.0\CrearExcepciones.csproj.AssemblyReference.cache
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\obj\Debug\net5.0\CrearExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\obj\Debug\net5.0\CrearExcepciones.AssemblyInfoInputs.cache
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\obj\Debug\net5.0\CrearExcepciones.AssemblyInfo.cs
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\obj\Debug\net5.0\CrearExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\obj\Debug\net5.0\CrearExcepciones.dll
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\obj\Debug\net5.0\refint\CrearExcepciones.dll
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\obj\Debug\net5.0\CrearExcepciones.pdb
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\obj\Debug\net5.0\CrearExcepciones.genruntimeconfig.cache
+C:\Users\davo-\OneDrive\Documentos\Cursos\NetMentor\CrearExcepciones\CrearExcepciones\obj\Debug\net5.0\ref\CrearExcepciones.dll
